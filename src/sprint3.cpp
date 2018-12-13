@@ -3,4 +3,5 @@
 int main()
 {
 	printf("Hello Sprint3...!");
+	return 0;
 }
